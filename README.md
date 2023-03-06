@@ -1,2 +1,1 @@
-Example
-asdasd
+Example for creating repo from github
